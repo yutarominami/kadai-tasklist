@@ -1,0 +1,23 @@
+[33mcommit 8242b2b75c7b119692dc6251d3f2ae9b86dc920d[m
+Author: jiro.kirameki <yutarominmi@yahoo.co.jp>
+Date:   Mon Apr 24 00:58:55 2017 +0000
+
+    second commit
+
+[33mcommit 51f5b67e603922e392621453243abcffecaa0235[m
+Author: jiro.kirameki <yutarominmi@yahoo.co.jp>
+Date:   Fri Apr 21 07:03:46 2017 +0000
+
+    first commit
+
+[33mcommit 237f820b831c565a0657caa14e5a5e0b70512227[m
+Author: jiro.kirameki <yutarominmi@yahoo.co.jp>
+Date:   Fri Apr 21 06:53:54 2017 +0000
+
+    CRUD messages
+
+[33mcommit a43f6d47c5af7d8b05c651eb4d37731687900ef2[m
+Author: jiro.kirameki <yutarominmi@yahoo.co.jp>
+Date:   Fri Apr 21 02:24:41 2017 +0000
+
+    init Rails Project
